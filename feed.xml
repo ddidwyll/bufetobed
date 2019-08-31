@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Буфет Обед</title>
+    <link href="http://192.168.1.51:3000/feed.xml" rel="self" />
+    <link href="http://192.168.1.51:3000" />
+    <updated>2019-08-31T12:00:22+03:00</updated>
+    <author>
+        <name>user</name>
+    </author>
+    <id>http://192.168.1.51:3000</id>
+
+    <entry>
+        <title>Бизнес ланч №3</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="http://192.168.1.51:3000/biznes-lanch-no3/"/>
+        <id>http://192.168.1.51:3000/biznes-lanch-no3/</id>
+
+        <updated>2019-08-31T10:04:32+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://192.168.1.51:3000/media/posts/7/appetizer-asian-food-chili-1234535.jpg" alt="" />
+                    <ul>
+<li>Грибной суп</li>
+<li>Голубцы</li>
+<li>Винегрет</li>
+<li>Зелёный чай
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://192.168.1.51:3000/media/posts/7/appetizer-asian-food-chili-1234535.jpg" alt="" />
+                <ul>
+<li>Грибной суп</li>
+<li>Голубцы</li>
+<li>Винегрет</li>
+<li>Зелёный чай</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Проведение концертов</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="http://192.168.1.51:3000/provedenie-koncertov/"/>
+        <id>http://192.168.1.51:3000/provedenie-koncertov/</id>
+
+        <updated>2019-08-31T10:33:35+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://192.168.1.51:3000/media/posts/6/black-and-white-crowd-dancing-788824.jpg" alt="" />
+                    Хорошая музыка, вкусная еда, освежающие напитки в приятной обстановке. Что может быть лучше?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://192.168.1.51:3000/media/posts/6/black-and-white-crowd-dancing-788824.jpg" alt="" />
+                Хорошая музыка, вкусная еда, освежающие напитки в приятной обстановке. Что может быть лучше?
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Пицца 80см</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="http://192.168.1.51:3000/picca-80sm/"/>
+        <id>http://192.168.1.51:3000/picca-80sm/</id>
+
+        <updated>2019-08-31T09:57:03+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://192.168.1.51:3000/media/posts/5/cheese-close-up-crust-1146760.jpg" alt="" />
+                    Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://192.168.1.51:3000/media/posts/5/cheese-close-up-crust-1146760.jpg" alt="" />
+                Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Корпоративы</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="http://192.168.1.51:3000/korporativy/"/>
+        <id>http://192.168.1.51:3000/korporativy/</id>
+
+        <updated>2019-08-31T09:44:09+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://192.168.1.51:3000/media/posts/4/after-business-hours-architecture-bar-34650.jpg" alt="" />
+                    Приятный отдых в кругу коллег и лучший тимбилдинг.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://192.168.1.51:3000/media/posts/4/after-business-hours-architecture-bar-34650.jpg" alt="" />
+                Приятный отдых в кругу коллег и лучший тимбилдинг.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Бизнес ланч №2</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="http://192.168.1.51:3000/biznes-lanch-no2/"/>
+        <id>http://192.168.1.51:3000/biznes-lanch-no2/</id>
+
+        <updated>2019-08-31T10:01:44+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://192.168.1.51:3000/media/posts/3/appetizer-bowl-delicious-1640772.jpg" alt="" />
+                    <ul>
+<li>Борщ со сметаной</li>
+<li>Котлета с гречкой</li>
+<li>Салат "Оливье"</li>
+<li>Чай черный
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://192.168.1.51:3000/media/posts/3/appetizer-bowl-delicious-1640772.jpg" alt="" />
+                <ul>
+<li>Борщ со сметаной</li>
+<li>Котлета с гречкой</li>
+<li>Салат "Оливье"</li>
+<li>Чай черный</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Свадьбы</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="http://192.168.1.51:3000/svadby/"/>
+        <id>http://192.168.1.51:3000/svadby/</id>
+
+        <updated>2019-08-31T09:42:05+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://192.168.1.51:3000/media/posts/2/chairs-coffee-shop-drinking-glasses-67468.jpg" alt="" />
+                    Проведение главного праздника для молодых.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://192.168.1.51:3000/media/posts/2/chairs-coffee-shop-drinking-glasses-67468.jpg" alt="" />
+                Проведение главного праздника для молодых.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Бизнес ланч №1</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="http://192.168.1.51:3000/biznes-lanch-no1/"/>
+        <id>http://192.168.1.51:3000/biznes-lanch-no1/</id>
+
+        <updated>2019-08-31T09:41:22+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://192.168.1.51:3000/media/posts/1/close-up-dinner-fish-46239.jpg" alt="" />
+                    <ul>
+<li>Суп "Харчо"</li>
+<li>Сёмга с овощами</li>
+<li>Салат весенний</li>
+<li>Фирменный морс<br>
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://192.168.1.51:3000/media/posts/1/close-up-dinner-fish-46239.jpg" alt="" />
+                <ul>
+<li>Суп "Харчо"</li>
+<li>Сёмга с овощами</li>
+<li>Салат весенний</li>
+<li>Фирменный морс<br></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>

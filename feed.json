@@ -1,0 +1,118 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Буфет Обед",
+    "description": "",
+    "home_page_url": "http://192.168.1.51:3000",
+    "feed_url": "http://192.168.1.51:3000/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "user"
+    },
+    "items": [
+        {
+            "id": "http://192.168.1.51:3000/biznes-lanch-no3/",
+            "url": "http://192.168.1.51:3000/biznes-lanch-no3/",
+            "title": "Бизнес ланч №3",
+            "summary": "<ul>\n<li>Грибной суп</li>\n<li>Голубцы</li>\n<li>Винегрет</li>\n<li>Зелёный чай",
+            "content_html": "<ul>\n<li>Грибной суп</li>\n<li>Голубцы</li>\n<li>Винегрет</li>\n<li>Зелёный чай</li>\n</ul>",
+            "image": "http://192.168.1.51:3000/media/posts/7/appetizer-asian-food-chili-1234535.jpg",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T10:04:32+03:00",
+            "date_modified": "2019-08-31T10:04:32+03:00"
+        },
+        {
+            "id": "http://192.168.1.51:3000/provedenie-koncertov/",
+            "url": "http://192.168.1.51:3000/provedenie-koncertov/",
+            "title": "Проведение концертов",
+            "summary": "Хорошая музыка, вкусная еда, освежающие напитки в приятной обстановке. Что может быть лучше?",
+            "content_html": "Хорошая музыка, вкусная еда, освежающие напитки в приятной обстановке. Что может быть лучше?",
+            "image": "http://192.168.1.51:3000/media/posts/6/black-and-white-crowd-dancing-788824.jpg",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T10:00:20+03:00",
+            "date_modified": "2019-08-31T10:33:35+03:00"
+        },
+        {
+            "id": "http://192.168.1.51:3000/picca-80sm/",
+            "url": "http://192.168.1.51:3000/picca-80sm/",
+            "title": "Пицца 80см",
+            "summary": "Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.",
+            "content_html": "Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.",
+            "image": "http://192.168.1.51:3000/media/posts/5/cheese-close-up-crust-1146760.jpg",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T09:57:03+03:00",
+            "date_modified": "2019-08-31T09:57:03+03:00"
+        },
+        {
+            "id": "http://192.168.1.51:3000/korporativy/",
+            "url": "http://192.168.1.51:3000/korporativy/",
+            "title": "Корпоративы",
+            "summary": "Приятный отдых в кругу коллег и лучший тимбилдинг.",
+            "content_html": "Приятный отдых в кругу коллег и лучший тимбилдинг.",
+            "image": "http://192.168.1.51:3000/media/posts/4/after-business-hours-architecture-bar-34650.jpg",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T09:44:09+03:00",
+            "date_modified": "2019-08-31T09:44:09+03:00"
+        },
+        {
+            "id": "http://192.168.1.51:3000/biznes-lanch-no2/",
+            "url": "http://192.168.1.51:3000/biznes-lanch-no2/",
+            "title": "Бизнес ланч №2",
+            "summary": "<ul>\n<li>Борщ со сметаной</li>\n<li>Котлета с гречкой</li>\n<li>Салат \"Оливье\"</li>\n<li>Чай черный",
+            "content_html": "<ul>\n<li>Борщ со сметаной</li>\n<li>Котлета с гречкой</li>\n<li>Салат \"Оливье\"</li>\n<li>Чай черный</li>\n</ul>",
+            "image": "http://192.168.1.51:3000/media/posts/3/appetizer-bowl-delicious-1640772.jpg",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T08:32:15+03:00",
+            "date_modified": "2019-08-31T10:01:44+03:00"
+        },
+        {
+            "id": "http://192.168.1.51:3000/svadby/",
+            "url": "http://192.168.1.51:3000/svadby/",
+            "title": "Свадьбы",
+            "summary": "Проведение главного праздника для молодых.",
+            "content_html": "Проведение главного праздника для молодых.",
+            "image": "http://192.168.1.51:3000/media/posts/2/chairs-coffee-shop-drinking-glasses-67468.jpg",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T08:26:38+03:00",
+            "date_modified": "2019-08-31T09:42:05+03:00"
+        },
+        {
+            "id": "http://192.168.1.51:3000/biznes-lanch-no1/",
+            "url": "http://192.168.1.51:3000/biznes-lanch-no1/",
+            "title": "Бизнес ланч №1",
+            "summary": "<ul>\n<li>Суп \"Харчо\"</li>\n<li>Сёмга с овощами</li>\n<li>Салат весенний</li>\n<li>Фирменный морс<br>",
+            "content_html": "<ul>\n<li>Суп \"Харчо\"</li>\n<li>Сёмга с овощами</li>\n<li>Салат весенний</li>\n<li>Фирменный морс<br></li>\n</ul>",
+            "image": "http://192.168.1.51:3000/media/posts/1/close-up-dinner-fish-46239.jpg",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T08:23:55+03:00",
+            "date_modified": "2019-08-31T09:41:22+03:00"
+        }
+    ]
+}
