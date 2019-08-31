@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Буфет Обед</title>
-    <link href="http://192.168.1.51:3000/feed.xml" rel="self" />
-    <link href="http://192.168.1.51:3000" />
-    <updated>2019-08-31T12:00:22+03:00</updated>
+    <link href="https://ddidwyll.github.io/bufetobed/feed.xml" rel="self" />
+    <link href="https://ddidwyll.github.io/bufetobed" />
+    <updated>2019-08-31T12:09:47+03:00</updated>
     <author>
         <name>user</name>
     </author>
-    <id>http://192.168.1.51:3000</id>
+    <id>https://ddidwyll.github.io/bufetobed</id>
 
     <entry>
         <title>Бизнес ланч №3</title>
         <author>
             <name>user</name>
         </author>
-        <link href="http://192.168.1.51:3000/biznes-lanch-no3/"/>
-        <id>http://192.168.1.51:3000/biznes-lanch-no3/</id>
+        <link href="https://ddidwyll.github.io/bufetobed/biznes-lanch-no3/"/>
+        <id>https://ddidwyll.github.io/bufetobed/biznes-lanch-no3/</id>
 
         <updated>2019-08-31T10:04:32+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://192.168.1.51:3000/media/posts/7/appetizer-asian-food-chili-1234535.jpg" alt="" />
+                        <img src="https://ddidwyll.github.io/bufetobed/media/posts/7/appetizer-asian-food-chili-1234535.jpg" alt="" />
                     <ul>
 <li>Грибной суп</li>
 <li>Голубцы</li>
@@ -30,7 +30,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://192.168.1.51:3000/media/posts/7/appetizer-asian-food-chili-1234535.jpg" alt="" />
+                    <img src="https://ddidwyll.github.io/bufetobed/media/posts/7/appetizer-asian-food-chili-1234535.jpg" alt="" />
                 <ul>
 <li>Грибной суп</li>
 <li>Голубцы</li>
@@ -45,19 +45,19 @@
         <author>
             <name>user</name>
         </author>
-        <link href="http://192.168.1.51:3000/provedenie-koncertov/"/>
-        <id>http://192.168.1.51:3000/provedenie-koncertov/</id>
+        <link href="https://ddidwyll.github.io/bufetobed/provedenie-koncertov/"/>
+        <id>https://ddidwyll.github.io/bufetobed/provedenie-koncertov/</id>
 
         <updated>2019-08-31T10:33:35+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://192.168.1.51:3000/media/posts/6/black-and-white-crowd-dancing-788824.jpg" alt="" />
+                        <img src="https://ddidwyll.github.io/bufetobed/media/posts/6/black-and-white-crowd-dancing-788824.jpg" alt="" />
                     Хорошая музыка, вкусная еда, освежающие напитки в приятной обстановке. Что может быть лучше?
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://192.168.1.51:3000/media/posts/6/black-and-white-crowd-dancing-788824.jpg" alt="" />
+                    <img src="https://ddidwyll.github.io/bufetobed/media/posts/6/black-and-white-crowd-dancing-788824.jpg" alt="" />
                 Хорошая музыка, вкусная еда, освежающие напитки в приятной обстановке. Что может быть лучше?
             ]]>
         </content>
@@ -67,19 +67,19 @@
         <author>
             <name>user</name>
         </author>
-        <link href="http://192.168.1.51:3000/picca-80sm/"/>
-        <id>http://192.168.1.51:3000/picca-80sm/</id>
+        <link href="https://ddidwyll.github.io/bufetobed/picca-80sm/"/>
+        <id>https://ddidwyll.github.io/bufetobed/picca-80sm/</id>
 
         <updated>2019-08-31T09:57:03+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://192.168.1.51:3000/media/posts/5/cheese-close-up-crust-1146760.jpg" alt="" />
+                        <img src="https://ddidwyll.github.io/bufetobed/media/posts/5/cheese-close-up-crust-1146760.jpg" alt="" />
                     Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://192.168.1.51:3000/media/posts/5/cheese-close-up-crust-1146760.jpg" alt="" />
+                    <img src="https://ddidwyll.github.io/bufetobed/media/posts/5/cheese-close-up-crust-1146760.jpg" alt="" />
                 Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.
             ]]>
         </content>
@@ -89,19 +89,19 @@
         <author>
             <name>user</name>
         </author>
-        <link href="http://192.168.1.51:3000/korporativy/"/>
-        <id>http://192.168.1.51:3000/korporativy/</id>
+        <link href="https://ddidwyll.github.io/bufetobed/korporativy/"/>
+        <id>https://ddidwyll.github.io/bufetobed/korporativy/</id>
 
         <updated>2019-08-31T09:44:09+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://192.168.1.51:3000/media/posts/4/after-business-hours-architecture-bar-34650.jpg" alt="" />
+                        <img src="https://ddidwyll.github.io/bufetobed/media/posts/4/after-business-hours-architecture-bar-34650.jpg" alt="" />
                     Приятный отдых в кругу коллег и лучший тимбилдинг.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://192.168.1.51:3000/media/posts/4/after-business-hours-architecture-bar-34650.jpg" alt="" />
+                    <img src="https://ddidwyll.github.io/bufetobed/media/posts/4/after-business-hours-architecture-bar-34650.jpg" alt="" />
                 Приятный отдых в кругу коллег и лучший тимбилдинг.
             ]]>
         </content>
@@ -111,13 +111,13 @@
         <author>
             <name>user</name>
         </author>
-        <link href="http://192.168.1.51:3000/biznes-lanch-no2/"/>
-        <id>http://192.168.1.51:3000/biznes-lanch-no2/</id>
+        <link href="https://ddidwyll.github.io/bufetobed/biznes-lanch-no2/"/>
+        <id>https://ddidwyll.github.io/bufetobed/biznes-lanch-no2/</id>
 
         <updated>2019-08-31T10:01:44+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://192.168.1.51:3000/media/posts/3/appetizer-bowl-delicious-1640772.jpg" alt="" />
+                        <img src="https://ddidwyll.github.io/bufetobed/media/posts/3/appetizer-bowl-delicious-1640772.jpg" alt="" />
                     <ul>
 <li>Борщ со сметаной</li>
 <li>Котлета с гречкой</li>
@@ -127,7 +127,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://192.168.1.51:3000/media/posts/3/appetizer-bowl-delicious-1640772.jpg" alt="" />
+                    <img src="https://ddidwyll.github.io/bufetobed/media/posts/3/appetizer-bowl-delicious-1640772.jpg" alt="" />
                 <ul>
 <li>Борщ со сметаной</li>
 <li>Котлета с гречкой</li>
@@ -142,19 +142,19 @@
         <author>
             <name>user</name>
         </author>
-        <link href="http://192.168.1.51:3000/svadby/"/>
-        <id>http://192.168.1.51:3000/svadby/</id>
+        <link href="https://ddidwyll.github.io/bufetobed/svadby/"/>
+        <id>https://ddidwyll.github.io/bufetobed/svadby/</id>
 
         <updated>2019-08-31T09:42:05+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://192.168.1.51:3000/media/posts/2/chairs-coffee-shop-drinking-glasses-67468.jpg" alt="" />
+                        <img src="https://ddidwyll.github.io/bufetobed/media/posts/2/chairs-coffee-shop-drinking-glasses-67468.jpg" alt="" />
                     Проведение главного праздника для молодых.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://192.168.1.51:3000/media/posts/2/chairs-coffee-shop-drinking-glasses-67468.jpg" alt="" />
+                    <img src="https://ddidwyll.github.io/bufetobed/media/posts/2/chairs-coffee-shop-drinking-glasses-67468.jpg" alt="" />
                 Проведение главного праздника для молодых.
             ]]>
         </content>
@@ -164,13 +164,13 @@
         <author>
             <name>user</name>
         </author>
-        <link href="http://192.168.1.51:3000/biznes-lanch-no1/"/>
-        <id>http://192.168.1.51:3000/biznes-lanch-no1/</id>
+        <link href="https://ddidwyll.github.io/bufetobed/biznes-lanch-no1/"/>
+        <id>https://ddidwyll.github.io/bufetobed/biznes-lanch-no1/</id>
 
         <updated>2019-08-31T09:41:22+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://192.168.1.51:3000/media/posts/1/close-up-dinner-fish-46239.jpg" alt="" />
+                        <img src="https://ddidwyll.github.io/bufetobed/media/posts/1/close-up-dinner-fish-46239.jpg" alt="" />
                     <ul>
 <li>Суп "Харчо"</li>
 <li>Сёмга с овощами</li>
@@ -180,7 +180,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://192.168.1.51:3000/media/posts/1/close-up-dinner-fish-46239.jpg" alt="" />
+                    <img src="https://ddidwyll.github.io/bufetobed/media/posts/1/close-up-dinner-fish-46239.jpg" alt="" />
                 <ul>
 <li>Суп "Харчо"</li>
 <li>Сёмга с овощами</li>
