@@ -1263,8 +1263,8 @@ main {
         margin: 0; } }
   @media all and (min-width: 37.5em) {
     .card__image {
-      -ms-flex-preferred-size: 57%;
-      flex-basis: 57%; } }
+      -ms-flex-preferred-size: 77%;
+      flex-basis: 77%; } }
   .card__image > img {
     -o-object-fit: cover;
     object-fit: cover;
