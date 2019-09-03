@@ -1013,7 +1013,7 @@ main {
     main {
       margin: 0 auto;
       margin-top: calc(12rem + 2vw);
-      width: 75%; } }
+      width: 85%; } }
 
 .hero {
   position: relative;
@@ -1258,6 +1258,7 @@ main {
         border-radius: 2px; }
       .card__txt ul {
         margin-top: -2rem;
+        margin-left: 0;
         list-style: none; }
       .card__txt h2 {
         margin: 0; } }
