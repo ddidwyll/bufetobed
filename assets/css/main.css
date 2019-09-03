@@ -339,8 +339,8 @@ button {
   color: #343434;
   cursor: pointer;
   display: inline-block;
-  font: 700 0.7242rem -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  letter-spacing: 0.15rem;
+  font: 400 0.7842rem -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  letter-spacing: 0.1rem;
   padding: 0.93333rem 2.13333rem;
   vertical-align: middle;
   text-align: center;
@@ -1177,7 +1177,7 @@ main {
 @media all and (min-width: 37.5em) {
   .category--bg-letters:before {
     content: "Q";
-    font: 700 34rem "Fira Sans", serif;
+    font: 500 34rem "Fira Sans", serif;
     color: #f7f7f8;
     left: -4%;
     top: calc(20rem + 3vw);
@@ -1191,7 +1191,7 @@ main {
 @media all and (min-width: 37.5em) {
   .category--bg-letters:after {
     content: "F";
-    font: 700 34rem "Fira Sans", serif;
+    font: 500 34rem "Fira Sans", serif;
     color: #f7f7f8;
     right: -4%;
     top: calc(80rem + 6vw);
