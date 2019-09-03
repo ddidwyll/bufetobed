@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-08-31T10:04:32+03:00",
-            "date_modified": "2019-08-31T10:04:32+03:00"
+            "date_modified": "2019-09-03T09:23:32+03:00"
         },
         {
             "id": "/provedenie-koncertov/",
@@ -37,12 +37,12 @@
             "tags": [
             ],
             "date_published": "2019-08-31T10:00:20+03:00",
-            "date_modified": "2019-09-03T07:56:25+03:00"
+            "date_modified": "2019-09-03T09:23:45+03:00"
         },
         {
-            "id": "/picca-80sm/",
-            "url": "/picca-80sm/",
-            "title": "Пицца 80см",
+            "id": "/picca-40sm/",
+            "url": "/picca-40sm/",
+            "title": "Пицца 40см",
             "summary": "Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.",
             "content_html": "Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.",
             "image": "/media/posts/5/cheese-close-up-crust-1146760.jpg",
@@ -52,7 +52,7 @@
             "tags": [
             ],
             "date_published": "2019-08-31T09:57:03+03:00",
-            "date_modified": "2019-08-31T09:57:03+03:00"
+            "date_modified": "2019-09-03T09:24:17+03:00"
         },
         {
             "id": "/korporativy/",
@@ -67,7 +67,7 @@
             "tags": [
             ],
             "date_published": "2019-08-31T09:44:09+03:00",
-            "date_modified": "2019-08-31T09:44:09+03:00"
+            "date_modified": "2019-09-03T09:24:30+03:00"
         },
         {
             "id": "/biznes-lanch-no2/",
@@ -82,7 +82,7 @@
             "tags": [
             ],
             "date_published": "2019-08-31T08:32:15+03:00",
-            "date_modified": "2019-08-31T10:01:44+03:00"
+            "date_modified": "2019-09-03T09:24:40+03:00"
         },
         {
             "id": "/svadby/",
@@ -97,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2019-08-31T08:26:38+03:00",
-            "date_modified": "2019-08-31T09:42:05+03:00"
+            "date_modified": "2019-09-03T09:24:52+03:00"
         },
         {
             "id": "/biznes-lanch-no1/",
@@ -112,7 +112,7 @@
             "tags": [
             ],
             "date_published": "2019-08-31T08:23:55+03:00",
-            "date_modified": "2019-08-31T09:41:22+03:00"
+            "date_modified": "2019-09-03T09:25:01+03:00"
         }
     ]
 }

@@ -81,7 +81,7 @@ html {
 body {
   background: #ffffff;
   color: #343434;
-  font-family: "Arimo", sans-serif;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-weight: 400;
   line-height: 1.6;
   -ms-scroll-chaining: none;
@@ -138,7 +138,7 @@ h4,
 h5,
 h6 {
   color: #343434;
-  font-family: "Playfair Display", serif;
+  font-family: "Fira Sans", serif;
   font-weight: 400;
   letter-spacing: 0.05rem;
   line-height: 1.2;
@@ -230,10 +230,10 @@ h6 + p {
 
 b,
 strong {
-  font-weight: 700; }
+  font-weight: 600; }
 
 blockquote {
-  font-family: "Playfair Display", serif;
+  font-family: "Fira Sans", serif;
   padding: 0 15%; }
   blockquote {
     font-size: 1.13778rem; }
@@ -246,7 +246,7 @@ blockquote {
   blockquote cite {
     color: #343434;
     display: block;
-    font-family: "Arimo", sans-serif;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     font-size: 0.87891rem;
     font-style: normal;
     padding-top: 0.53333rem; }
@@ -257,7 +257,7 @@ blockquote {
     height: 0;
     content: "“";
     margin-left: -.55em;
-    font: normal 400%/0.9 "Playfair Display", serif;
+    font: normal 400%/0.9 "Fira Sans", serif;
     color: #e3e3e3; }
     @media all and (min-width: 37.5em) {
       blockquote:before {
@@ -272,7 +272,7 @@ ol {
     padding: 0 0 0.26667rem 1.06667rem; }
 
 dl dt {
-  font-weight: 700; }
+  font-weight: 600; }
 
 pre {
   margin: calc(1.06667rem + 0.25vw) 0 0;
@@ -327,7 +327,7 @@ hr {
     content: "\2022 \2022 \2022";
     color: #343434;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 1rem;
     padding-left: 1rem; }
 
@@ -339,7 +339,7 @@ button {
   color: #343434;
   cursor: pointer;
   display: inline-block;
-  font: 700 0.7242rem "Arimo", sans-serif;
+  font: 700 0.7242rem -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   letter-spacing: 0.15rem;
   padding: 0.93333rem 2.13333rem;
   vertical-align: middle;
@@ -415,10 +415,10 @@ fieldset {
     padding: 0 1rem; }
 
 legend {
-  font-weight: 700; }
+  font-weight: 600; }
 
 label {
-  font-weight: 700;
+  font-weight: 600;
   margin: 0 1.06667rem 0.8rem 0; }
 
 option {
@@ -614,8 +614,8 @@ textarea {
 /* Logo ------------------------ */
 .logo {
   color: #343434 !important;
-  font-family: "Playfair Display", serif;
-  font-weight: 700;
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
   position: relative;
   z-index: 1; }
   .logo {
@@ -806,7 +806,7 @@ textarea {
     @media all and (min-width: 56.25em) {
       .navbar__menu li {
         display: inline-block;
-        font-weight: 700;
+        font-weight: 600;
         padding: 0 1.06667rem;
         position: relative;
         z-index: 2001; } }
@@ -1091,7 +1091,7 @@ main {
     color: #59585F;
     display: block;
     font-size: 0.7242rem;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 0.1rem;
     margin-bottom: 1.33333rem;
     text-transform: uppercase; }
@@ -1177,7 +1177,7 @@ main {
 @media all and (min-width: 37.5em) {
   .category--bg-letters:before {
     content: "Q";
-    font: 700 34rem "Playfair Display", serif;
+    font: 700 34rem "Fira Sans", serif;
     color: #f7f7f8;
     left: -4%;
     top: calc(20rem + 3vw);
@@ -1191,7 +1191,7 @@ main {
 @media all and (min-width: 37.5em) {
   .category--bg-letters:after {
     content: "F";
-    font: 700 34rem "Playfair Display", serif;
+    font: 700 34rem "Fira Sans", serif;
     color: #f7f7f8;
     right: -4%;
     top: calc(80rem + 6vw);
@@ -1256,10 +1256,6 @@ main {
         box-shadow: none; }
       .card__image img {
         border-radius: 2px; }
-      .card__txt ul {
-        margin-top: -2rem;
-        margin-left: 0;
-        list-style: none; }
       .card__txt h2 {
         margin: 0; } }
   @media all and (min-width: 37.5em) {
@@ -1272,8 +1268,8 @@ main {
     height: 100%;
     width: 100%; }
   .card__meta {
-    color: #59585F;
-    font-size: 0.82397rem; }
+    color: #d92701;
+    font-size: 1.1rem; }
     .card__meta > a + time:before {
       background: #59585F;
       border-radius: 50%;
@@ -1286,12 +1282,18 @@ main {
   .card__desc {
     margin-top: calc(1.6rem + 0.35vw);
     margin-bottom: calc(2.4rem + 0.35vw); }
+  .card__desc + ul {
+    margin-left: 0;
+    list-style: none;
+    margin-top: -1.5rem; }
+  .card__desc + ul > li {
+    padding-left: 0; }
   @media all and (min-width: 37.5em) {
     .card--featured:before {
       background: #343434;
       border-radius: 50%;
       color: #ffffff;
-      font: 400 italic 1.38084rem "Playfair Display", serif;
+      font: 400 italic 1.38084rem "Fira Sans", serif;
       display: block;
       height: 10rem;
       left: 50%;
@@ -1645,7 +1647,7 @@ main {
 .dropcap:first-letter {
   color: #343434;
   float: left;
-  font-family: "Playfair Display", serif;
+  font-family: "Fira Sans", serif;
   line-height: 0.6;
   margin-right: 0.53333rem;
   padding: 0.53333rem 0.53333rem 0.53333rem 0; }
@@ -1733,7 +1735,7 @@ main {
       .footer__nav ul li {
         display: inline-block;
         font-size: 0.67893rem;
-        font-weight: 700;
+        font-weight: 600;
         letter-spacing: 0.1rem;
         margin: 0 1.06667rem;
         text-transform: uppercase; }
