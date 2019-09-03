@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "/galereya/",
+            "url": "/galereya/",
+            "title": "Галерея",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"/media/posts/8/gallery/DSC_0123.JPG\" ><img src=\"/media/posts/8/gallery/DSC_0123-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/8/gallery/DSC_0127.JPG\" ><img src=\"/media/posts/8/gallery/DSC_0127-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/8/gallery/DSC_0118.JPG\" ><img src=\"/media/posts/8/gallery/DSC_0118-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"523\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/8/gallery/DSC_0122.JPG\" ><img src=\"/media/posts/8/gallery/DSC_0122-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"541\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/8/gallery/DSC_0133.JPG\" ><img src=\"/media/posts/8/gallery/DSC_0133-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/8/gallery/DSC_0131.JPG\" ><img src=\"/media/posts/8/gallery/DSC_0131-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"417\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"/media/posts/8/gallery/DSC_0128.JPG\" ><img src=\"/media/posts/8/gallery/DSC_0128-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div>",
+            "author": {
+                "name": "user"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-03T10:16:05+03:00",
+            "date_modified": "2019-09-03T10:17:16+03:00"
+        },
+        {
             "id": "/biznes-lanch-no3/",
             "url": "/biznes-lanch-no3/",
             "title": "Бизнес ланч №3",
