@@ -604,6 +604,9 @@ textarea {
       .container > header.is-sticky-on .logo {
         font-size: 1.67583rem;
         padding: 0; }
+      .container > header.is-sticky-on .logo p {
+        display: none;
+      }
       .container > header.is-sticky-on .navbar__menu {
         margin: 0; }
       .container > header.is-sticky-on .search-btn {
@@ -618,6 +621,10 @@ textarea {
   font-weight: 600;
   position: relative;
   z-index: 1; }
+  .logo p {
+    margin: 0;
+    color: #dc3916;
+    font-size: 1rem; }
   .logo {
     font-size: 1.67583rem; }
     @media screen and (min-width: 20rem) {
@@ -793,7 +800,7 @@ textarea {
   @media all and (min-width: 56.25em) {
     .navbar__menu {
       max-height: none;
-      margin: 2.13333rem 0 0;
+      margin: 1.13333rem 0 0;
       overflow: visible; } }
   .navbar__menu li {
     font-size: 0.67893rem;

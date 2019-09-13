@@ -12,7 +12,7 @@
     <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
     <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
     <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
-    <script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"/amp/biznes-lanch-no1/"},"headline":"Бизнес ланч №1","datePublished":"2019-08-31T08:23","dateModified":"2019-09-03T09:25","image":{"@type":"ImageObject","url":"/media/posts/1/close-up-dinner-fish-46239.jpg","height":2400,"width":3200},"description":"<ul>\n<li>Суп \"Харчо\"</li>\n<li>Сёмга с овощами</li>\n<li>Салат весенний</li>\n<li>Фирменный морс<br>","author":{"@type":"Person","name":"150 р"},"publisher":{"@type":"Organization","name":"user"}}</script>
+    <script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"/amp/biznes-lanch-no1/"},"headline":"Бизнес ланч №1","datePublished":"2019-08-31T08:23","dateModified":"2019-09-03T09:25","image":{"@type":"ImageObject","url":"/media/posts/1/close-up-dinner-fish-46239.jpg","height":2400,"width":3200},"description":"<ul>\n<li>Суп \"Харчо\"</li>\n<li>Сёмга с овощами</li>\n<li>Салат весенний</li>\n<li>Фирменный морс<br>","author":{"@type":"Person","name":"150 рублей"},"publisher":{"@type":"Organization","name":"user","logo":{"@type":"ImageObject","url":"/media/website/IMG-2b7725e7c4da7c9635c62f70f4f392bc-V-6.jpg","height":960,"width":1280}}}</script>
     <style amp-custom>
 article,
 aside,
@@ -293,6 +293,10 @@ button {
 
 
 .logo {
+            background-image: url('/media/website/IMG-2b7725e7c4da7c9635c62f70f4f392bc-V-6.jpg');
+            background-size: auto 2rem;
+            background-repeat: no-repeat;
+            background-position: center center;
             display: inline-block;
   font-weight: 600;
   line-height: 1;
@@ -585,7 +589,7 @@ aside {
     <nav class="navbar wrap-inner" id="top">
         <div>
             <a on="tap:navbar-sidebar.toggle" class="navbar-sidebar-toggle" title="Menu">Menu</a>
-                <a class="logo logo-text" href="/amp/">
+                <a class="logo" href="/amp/">
                 Буфет Обед
             </a>
         </div>
@@ -624,6 +628,9 @@ aside {
             </div>
         </article>
         
+            <nav class="post-pagination wrap-inner">
+
+            </nav>
        
        
     </main>
@@ -675,11 +682,11 @@ aside {
 <amp-sidebar id="navbar-sidebar" layout="nodisplay">
      <ul>
             <li>
-            <a href="/amp/t/menyu/">Меню</a>
+            <a href="/amp/saratov/menyu/">Меню</a>
 
         </li>
             <li>
-            <a href="/amp/t/uslugi/">Услуги</a>
+            <a href="/amp/saratov/uslugi/">Услуги</a>
 
         </li>
             <li>

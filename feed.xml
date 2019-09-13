@@ -3,12 +3,239 @@
     <title>Буфет Обед</title>
     <link href="/feed.xml" rel="self" />
     <link href="" />
-    <updated>2019-09-03T11:10:45+03:00</updated>
+    <updated>2019-09-13T16:33:25+03:00</updated>
     <author>
         <name>user</name>
     </author>
     <id></id>
 
+    <entry>
+        <title>Выпечка</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="/vypechka/"/>
+        <id>/vypechka/</id>
+
+        <updated>2019-09-13T16:30:07+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/14/bake-bakery-baking-533247-1.jpg" alt="Ассортимент выпечки в Буфет Обед" />
+                    <ul>
+<li>Круасан джемом — 30 рублей</li>
+<li>Хачапури — 35 рублей</li>
+<li>Тирамису — 80 рублей</li>
+<li>Мини Пицца — 65 рублей</li>
+</ul>
+<br>
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/14/bake-bakery-baking-533247-1.jpg" alt="Ассортимент выпечки в Буфет Обед" />
+                <ul>
+<li>Круасан джемом — 30 рублей</li>
+<li>Хачапури — 35 рублей</li>
+<li>Тирамису — 80 рублей</li>
+<li>Мини Пицца — 65 рублей</li>
+</ul>
+<br>
+<blockquote>
+<p>Рецепт пары позиций и фото</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Первые блюда</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="/pervye-blyuda/"/>
+        <id>/pervye-blyuda/</id>
+
+        <updated>2019-09-13T16:31:46+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/13/bowl-broth-cuisine-1406501-1.jpg" alt="Первые блюда в Буфет Обед" />
+                    Первое - это полезно, вкусно и недорого!<br>
+<ul>
+<li>Суп гороховый — 60 рублей.</li>
+<li>Суп куринный с домашней лапшой — 60 рублей.</li>
+<li>Ещё супы</li>
+</ul>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/13/bowl-broth-cuisine-1406501-1.jpg" alt="Первые блюда в Буфет Обед" />
+                Первое - это полезно, вкусно и недорого!<br>
+<ul>
+<li>Суп гороховый — 60 рублей.</li>
+<li>Суп куринный с домашней лапшой — 60 рублей.</li>
+<li>Ещё супы</li>
+</ul>
+
+<blockquote>
+<p>Здесь состав супов и фото. Здесь состав супов и фото.</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Бизнес-ланч № 1</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="/biznes-lanch-no-1/"/>
+        <id>/biznes-lanch-no-1/</id>
+
+        <updated>2019-09-13T16:04:02+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/12/bowl-broth-creamy-209540-1.jpg" alt="Бизнес-ланч № 1" />
+                    Каждый день - новой бизнес-ланч!<br>
+<ul>
+<li>Суп гороховый. </li>
+<li>Жаркое с купатами. </li>
+<li>Витаминный салат. </li>
+<li>Хлеб. </li>
+<li>Чай. </li>
+</ul>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/12/bowl-broth-creamy-209540-1.jpg" alt="Бизнес-ланч № 1" />
+                Каждый день - новой бизнес-ланч!<br>
+<ul>
+<li>Суп гороховый. </li>
+<li>Жаркое с купатами. </li>
+<li>Витаминный салат. </li>
+<li>Хлеб. </li>
+<li>Чай. </li>
+</ul>
+
+<blockquote>
+<p>(Купаты – сырые колбаски, жаренные на углях или в печи. В мясной фарш (свинина и говядина) добавляется мелко нарезанный лук, чеснок, зерна граната либо ягоды барбариса, соль, черный/красный перец, чабер, пажитник голубой (уцхо сунели), сухая кинза.)</p>
+</blockquote>
+<p><img src="/media/posts/12/beef-close-up-cuisine-1556696.jpg" width="800" height="531"></p>
+<p>Кроме Бизнес-ланча, вы можете заказать и другие блюда на выбор</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Проведение мероприятий</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="/provedenie-meropriyatiy/"/>
+        <id>/provedenie-meropriyatiy/</id>
+
+        <updated>2019-09-13T16:31:35+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/11/IMG-4b4a8025bae1eb980b726c21adf5fea5-V.jpg" alt="Мероприятия в Буфет Обед" />
+                    Для других мероприятий, не требующих танцевальной площадки возможно увеличение посадочных мест до 50. С удовольствием примем у себя в гостях&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/11/IMG-4b4a8025bae1eb980b726c21adf5fea5-V.jpg" alt="Мероприятия в Буфет Обед" />
+                <p>Для других мероприятий, не требующих танцевальной площадки возможно увеличение посадочных мест до 50. С удовольствием примем у себя в гостях различные тренинги, тимбилдинг и другие развивающие и объединяющие мероприятия. Тем более, что для проведения тренингов есть проектор и телевизоры находящиеся над банкетным залом, для того чтобы гости лучше видели программу проведения.</p>
+<p><img src="/media/posts/11/activity-art-art-class-730807.jpg" width="800" height="534"></p>
+<ul>
+<li>
+<p><span style="font-size: medium;">Рядом с кафе «Буфет Обед» есть круглосуточная парковка по правому или левому ряду, машиномест хватит даже на очень большое количество гостей.</span></p>
+</li>
+<li>
+<p><span style="font-size: medium;">«Алкоголь с собой». Для того, чтобы избежать дополнительных трат, весь алкоголь можно закупить заранее. Заранее закупленный алкоголь можно использовать не только для проведения свадеб, но и для проведения банкетов, корпоративов, похорон, поминок и других мероприятий.</span></p>
+</li>
+</ul>
+<p><img src="/media/posts/11/active-activity-adult-1308746.jpg" width="800" height="533"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Корпоративы и Дни рождения</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="/korporativy-i-dni-rozhdeniya/"/>
+        <id>/korporativy-i-dni-rozhdeniya/</id>
+
+        <updated>2019-09-13T16:32:09+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/10/IMG-b8e6cdc316203013c98427dff4ae6084-V.jpg" alt="Корпоративы и Дни рождения В буфет Обед" />
+                    В нашем кафе в Саратове для проведения Корпоративов и Дней рождения мы можем предложить хорошую кухню и низкие цены. Отдаленность&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/10/IMG-b8e6cdc316203013c98427dff4ae6084-V.jpg" alt="Корпоративы и Дни рождения В буфет Обед" />
+                <p>В нашем кафе в Саратове для проведения Корпоративов и Дней рождения мы можем предложить хорошую кухню и низкие цены. Отдаленность от шумного и пыльного центра поможет создать свою атмосферу. <span style="font-size: medium;"><span lang="ru-RU">У нашего кафе есть уличная площадка с обратной стороны здания, со столами и сценой, куда гости могут выйти подышать свежим воздухом, запустить фейерверки, салюты, петарды.</span></span></p>
+<p><span style="font-size: medium;"><span lang="ru-RU"><img src="/media/posts/10/birthday-gift-bow-christmas-gift-190930.jpg" alt="Буфет Обед поздравляет" width="800" height="533"> </span></span></p>
+<p><span style="font-size: medium;"><span lang="ru-RU">Д</span></span><span style="font-size: medium;"><span lang="ru-RU">ля молодежи есть возможность проведения тематических вечеринок (рок, транс музыки). Можно организовывать концерты, встречи и другие программы. Для проведения таких вечеринок предлагаем способ оплаты «депозит», когда каждый входящий, оплачивает некую сумму, а потом может на эту сумму заказать еды и напитков. Это очень выгодное предложение, которым могут воспользоваться студенты и другая моложежь.</span></span></p>
+<p><span style="font-size: medium;">Для организации корпоративов, Дней рождения, и других праздников и мероприятий в нашем кафе в Саратове мы можем предложить: </span></p>
+<ul>
+<li>
+<p><span style="font-size: medium;">Рядом с кафе «Буфет Обед» есть круглосуточная парковка по правому или левому ряду, машиномест хватит даже на большой корпоратив.</span></p>
+</li>
+<li>
+<p><span style="font-size: medium;">Кафе расположено в районе, где нет жилых домов, это означает, что праздновать можно «на полную».</span></p>
+</li>
+<li>
+<p><span style="font-size: medium;">«Алкоголь с собой». Для того, чтобы избежать дополнительных трат, весь алкоголь можно закупить заранее. Заранее закупленный алкоголь можно использовать не только для проведения свадеб, но и для проведения банкетов, корпоративов, похорон, поминок и других мероприятий.</span></p>
+</li>
+</ul>
+<p><img src="/media/posts/10/birthday-blossom-bright-2072149.jpg" alt="Праздник в Буфет Обед" width="800" height="533"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Свадьбы</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="/svadby-2/"/>
+        <id>/svadby-2/</id>
+
+        <updated>2019-09-13T14:41:25+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="/media/posts/9/IMG-2b7725e7c4da7c9635c62f70f4f392bc-V-6.jpg" alt="Проведение свадеб в кафе Буфет Обед" />
+                    У вас намечается замечательный праздник? У нас есть очень хорошее место, чтобы провести свадьбу в Саратове. Каждая пара хочет свой&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="/media/posts/9/IMG-2b7725e7c4da7c9635c62f70f4f392bc-V-6.jpg" alt="Проведение свадеб в кафе Буфет Обед" />
+                <p><span style="font-size: medium;">У вас намечается замечательный праздник? У нас есть очень хорошее место, чтобы провести<strong> свадьбу в Саратове.</strong> Каждая пара хочет свой праздник, в отделанном в своем стиле кафе для проведения свадьбы. Мы предлагаем свое кафе «Буфет Обед» для проведения свадьбы, дня рождения, корпоратива или другого праздника.</span></p>
+<p><span style="font-size: medium;"><img src="/media/posts/9/beautiful-bouquet-bridal-313707.jpg" alt="Буфет Обед для молодых" width="800" height="533"></span></p>
+<p><span style="font-size: medium;">Для проведения свадьбы, есть помещение со стильной отделкой под дерево, есть сцена для музыкантов, телевизоры и проектор. Для проведения свадьбы в нашем кафе есть место чтобы разместить за столами 40 гостей. Кроме посадочных мест, оставлено место для танцевальной площадки.</span></p>
+<p><span style="font-size: medium;">Заранее можно договориться о свадебном меню. Наши повара ежедневно кормят большое количество гостей, имеют хороший опыт по приготовлению вкусной еды. Так что, для проведения свадьбы или банкета меню может быть не только классическим столовым, но и более интересным на усмотрение гостей.</span></p>
+<p><span style="font-size: medium;">И вот несколько главных причин, по которым лучше выбрать нас:</span></p>
+<ul>
+<li>
+<p><span style="font-size: medium;">Рядом с кафе «Буфет Обед» есть круглосуточная парковка по правому или левому ряду, машиномест хватит даже на очень большую свадьбу или другое мероприятие.</span></p>
+</li>
+<li>
+<p><span style="font-size: medium;">У нашего кафе есть уличная площадка с обратной стороны здания, со столами и сценой, куда гости могут выйти подышать свежим воздухом, запустить фейерверки, салюты, петарды.</span></p>
+</li>
+<li>
+<p><span style="font-size: medium;">Кафе расположено в районе, где нет жилых домов, это означает, что праздновать можно «на полную»</span></p>
+</li>
+<li>
+<p><span style="font-size: medium;">«Алкоголь с собой». Для того, чтобы избежать дополнительных трат, весь алкоголь можно закупить заранее. Заранее закупленный алкоголь можно использовать не только для проведения свадеб, но и для проведения банкетов, корпоративов, похорон, поминок и других мероприятий.</span></p>
+</li>
+</ul>
+<p><img src="/media/posts/9/accessory-anniversary-band-265856.jpg" alt="Свадьба в Буфет Обед" width="800" height="533"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Галерея</title>
         <author>
@@ -30,187 +257,6 @@
 <figure class="gallery__item"><a href="/media/posts/8/gallery/DSC_0131.JPG" ><img src="/media/posts/8/gallery/DSC_0131-thumbnail.JPG" alt="" width="768" height="417"></a></figure>
 <figure class="gallery__item"><a href="/media/posts/8/gallery/DSC_0128.JPG" ><img src="/media/posts/8/gallery/DSC_0128-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Бизнес ланч №3</title>
-        <author>
-            <name>user</name>
-        </author>
-        <link href="/biznes-lanch-no3/"/>
-        <id>/biznes-lanch-no3/</id>
-
-        <updated>2019-09-03T09:23:32+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="/media/posts/7/appetizer-asian-food-chili-1234535.jpg" alt="" />
-                    <ul>
-<li>Грибной суп</li>
-<li>Голубцы</li>
-<li>Винегрет</li>
-<li>Зелёный чай
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="/media/posts/7/appetizer-asian-food-chili-1234535.jpg" alt="" />
-                <ul>
-<li>Грибной суп</li>
-<li>Голубцы</li>
-<li>Винегрет</li>
-<li>Зелёный чай</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Проведение мероприятий</title>
-        <author>
-            <name>user</name>
-        </author>
-        <link href="/provedenie-koncertov/"/>
-        <id>/provedenie-koncertov/</id>
-
-        <updated>2019-09-03T09:23:45+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="/media/posts/6/birthday-cake-380178_1920.jpg" alt="" />
-                    Хорошая музыка, вкусная еда, освежающие напитки в приятной обстановке. Что может быть лучше?
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="/media/posts/6/birthday-cake-380178_1920.jpg" alt="" />
-                Хорошая музыка, вкусная еда, освежающие напитки в приятной обстановке. Что может быть лучше?
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Пицца 40см</title>
-        <author>
-            <name>user</name>
-        </author>
-        <link href="/picca-40sm/"/>
-        <id>/picca-40sm/</id>
-
-        <updated>2019-09-03T09:24:17+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="/media/posts/5/cheese-close-up-crust-1146760.jpg" alt="" />
-                    Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="/media/posts/5/cheese-close-up-crust-1146760.jpg" alt="" />
-                Тонкое тесто, Сыр, Ветчина, Помидоры, Маслины и Фирменный соус.
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Корпоративы</title>
-        <author>
-            <name>user</name>
-        </author>
-        <link href="/korporativy/"/>
-        <id>/korporativy/</id>
-
-        <updated>2019-09-03T09:24:30+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="/media/posts/4/after-business-hours-architecture-bar-34650.jpg" alt="" />
-                    Приятный отдых в кругу коллег и лучший тимбилдинг.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="/media/posts/4/after-business-hours-architecture-bar-34650.jpg" alt="" />
-                Приятный отдых в кругу коллег и лучший тимбилдинг.
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Бизнес ланч №2</title>
-        <author>
-            <name>user</name>
-        </author>
-        <link href="/biznes-lanch-no2/"/>
-        <id>/biznes-lanch-no2/</id>
-
-        <updated>2019-09-03T09:24:40+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="/media/posts/3/appetizer-bowl-delicious-1640772.jpg" alt="" />
-                    <ul>
-<li>Борщ со сметаной</li>
-<li>Котлета с гречкой</li>
-<li>Салат "Оливье"</li>
-<li>Чай черный
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="/media/posts/3/appetizer-bowl-delicious-1640772.jpg" alt="" />
-                <ul>
-<li>Борщ со сметаной</li>
-<li>Котлета с гречкой</li>
-<li>Салат "Оливье"</li>
-<li>Чай черный</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Свадьбы</title>
-        <author>
-            <name>user</name>
-        </author>
-        <link href="/svadby/"/>
-        <id>/svadby/</id>
-
-        <updated>2019-09-03T10:09:47+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="/media/posts/2/chairs-coffee-shop-drinking-glasses-67468.jpg" alt="" />
-                    Проведение главного праздника для молодых.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="/media/posts/2/chairs-coffee-shop-drinking-glasses-67468.jpg" alt="" />
-                Проведение главного праздника для молодых.
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Бизнес ланч №1</title>
-        <author>
-            <name>user</name>
-        </author>
-        <link href="/biznes-lanch-no1/"/>
-        <id>/biznes-lanch-no1/</id>
-
-        <updated>2019-09-03T09:25:01+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="/media/posts/1/close-up-dinner-fish-46239.jpg" alt="" />
-                    <ul>
-<li>Суп "Харчо"</li>
-<li>Сёмга с овощами</li>
-<li>Салат весенний</li>
-<li>Фирменный морс<br>
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="/media/posts/1/close-up-dinner-fish-46239.jpg" alt="" />
-                <ul>
-<li>Суп "Харчо"</li>
-<li>Сёмга с овощами</li>
-<li>Салат весенний</li>
-<li>Фирменный морс<br></li>
-</ul>
             ]]>
         </content>
     </entry>
