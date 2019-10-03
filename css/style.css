@@ -15,6 +15,30 @@ body{
 .images-center img {
   border-radius: 50%;
 }
+.sched {
+  margin: 0.5rem;
+  width: 320px;
+  height: 130px;
+  padding: 1.5rem 1.8rem 0.5rem;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: #f8f9fa !important;
+}
+.blog .text {
+  display: flex;
+  align-items: center;
+  height: 300px;
+}
+.services-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.services-list li {
+  margin: 0 1rem;
+}
 a{
     -webkit-transition:.3s all ease;
     -o-transition:.3s all ease;
