@@ -27,8 +27,12 @@ body{
 }
 .blog .text {
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  justify-content: center;
   height: 300px;
+}
+.blog .text ul {
+  list-style: decimal;
 }
 .services-list {
   list-style: none;
@@ -38,6 +42,15 @@ body{
 }
 .services-list li {
   margin: 0 1rem;
+}
+.blog.bg-gray {
+  background-color: #f8f9fa;
+}
+.blog.bg-gray .text {
+  height: auto;
+}
+form {
+  max-width: 1000px;
 }
 a{
     -webkit-transition:.3s all ease;
