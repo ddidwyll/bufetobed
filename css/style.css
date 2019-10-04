@@ -1321,7 +1321,7 @@ header .navbar .cta-btn a:hover{
 .top-slant-white{
     position:relative;
     margin-top:-200px;
-    z-index:-1
+    z-index:0
 }
 .top-slant-white:before{
     content:"";
